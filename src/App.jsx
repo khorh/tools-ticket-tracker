@@ -4,14 +4,18 @@ import TicketTracker from "./components/TicketTracker/TicketTracker";
 
 import team from "./data/team";
 
-function App() {
+const App = () => {
+  console.log(team)
+
+
+
   return (
     <div className="App">
       <header>
           <h1>Ticket Tracker</h1>
       </header>
       <main>
-
+        <TicketTracker teamArr={team}/>
       </main>
     </div>
   );
