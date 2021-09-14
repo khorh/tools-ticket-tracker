@@ -5,10 +5,6 @@ import TicketTracker from "./components/TicketTracker/TicketTracker";
 import team from "./data/team";
 
 const App = () => {
-  console.log(team)
-
-
-
   return (
     <div className="App">
       <header>
