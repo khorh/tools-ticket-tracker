@@ -1,5 +1,6 @@
 import "./App.scss";
 
+import Header from "./components/Header/Header";
 import TicketTracker from "./components/TicketTracker/TicketTracker";
 
 import team from "./data/team";
@@ -7,14 +8,10 @@ import team from "./data/team";
 const App = () => {
   return (
     <div className="App">
-      <header>
-          <h1>Ticket Tracker</h1>
-      </header>
-      <main>
-        <TicketTracker teamArr={team}/>
-      </main>
+      <Header heading="TICKET TRACKER"/>
+      <TicketTracker teamArr={team}/>
     </div>
   );
-}
+};
 
 export default App;

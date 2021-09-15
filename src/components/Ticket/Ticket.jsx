@@ -1,5 +1,5 @@
-import {useState} from 'react'
-import './Ticket.scss'
+import { useState } from "react";
+import "./Ticket.scss";
 
 const Ticket = ({elem}) => {
   const [counter, setCounter] = useState(0);
@@ -12,7 +12,7 @@ const Ticket = ({elem}) => {
         <h3 className="ticket__name">{elem.name}</h3>
         <h4 className="ticket__role">{elem.role}</h4>
       </div>
-      <div>
+      <div className="ticket__counter-container">
         <h4 className="ticket__counter">Counter</h4>
         <h5 className="ticket__count">{counter}</h5>
         <button className="ticket__btn" onClick={counterDecrement}>-</button>
@@ -20,7 +20,6 @@ const Ticket = ({elem}) => {
       </div>
     </div>
   );
-  
-}
+};
 
-export default Ticket
+export default Ticket;
