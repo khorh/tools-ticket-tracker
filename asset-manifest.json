@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tools-ticket-tracker/static/css/main.3b83a5c6.chunk.css",
+    "main.js": "/tools-ticket-tracker/static/js/main.d1c0af34.chunk.js",
+    "main.js.map": "/tools-ticket-tracker/static/js/main.d1c0af34.chunk.js.map",
+    "runtime-main.js": "/tools-ticket-tracker/static/js/runtime-main.8ccdfb83.js",
+    "runtime-main.js.map": "/tools-ticket-tracker/static/js/runtime-main.8ccdfb83.js.map",
+    "static/js/2.b166d8ae.chunk.js": "/tools-ticket-tracker/static/js/2.b166d8ae.chunk.js",
+    "static/js/2.b166d8ae.chunk.js.map": "/tools-ticket-tracker/static/js/2.b166d8ae.chunk.js.map",
+    "static/js/3.f3b3c226.chunk.js": "/tools-ticket-tracker/static/js/3.f3b3c226.chunk.js",
+    "static/js/3.f3b3c226.chunk.js.map": "/tools-ticket-tracker/static/js/3.f3b3c226.chunk.js.map",
+    "index.html": "/tools-ticket-tracker/index.html",
+    "static/css/main.3b83a5c6.chunk.css.map": "/tools-ticket-tracker/static/css/main.3b83a5c6.chunk.css.map",
+    "static/js/2.b166d8ae.chunk.js.LICENSE.txt": "/tools-ticket-tracker/static/js/2.b166d8ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ccdfb83.js",
+    "static/js/2.b166d8ae.chunk.js",
+    "static/css/main.3b83a5c6.chunk.css",
+    "static/js/main.d1c0af34.chunk.js"
+  ]
+}
