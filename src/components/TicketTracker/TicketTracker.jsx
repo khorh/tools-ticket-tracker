@@ -1,11 +1,15 @@
-import React from "react";
 import "./TicketTracker.scss";
 
-const TicketTracker = () => {
-    return (
-        <section>
+import Ticket from "../Ticket/Ticket";
 
-        </section>
+const TicketTracker = ({teamArr}) => {
+    
+    const ticketJsx = teamArr.map(elem => <Ticket elem={elem} />);
+
+    return (
+        <main className="ticket-container">
+          {ticketJsx}
+        </main>
     );
 };
 

@@ -1,0 +1,42 @@
+@use "../../assets/variables" as *;
+
+.ticket {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  border-radius: 16px;
+  border: 3px solid $color-black;
+  padding: 24px;
+  background-color: $color-white;
+
+  &__name {
+    font-size: 24px;
+  }
+
+  &__role {
+    font-size: 20px;
+  }
+
+  &__counter-container {
+    border-top: 3px solid $color-black;
+  }
+
+  &__counter {
+    font-size: 16px;
+  }
+
+  &__count {
+    font-size: 24px;
+  }
+
+  &__btn {
+    height: 40px;
+    width: 40px;
+    margin: 0 16px 16px;
+    border-radius: 50%;
+    background-color: $color-black;
+    border: none;
+    font-size: 24px;
+    color: $color-white;
+  }
+}
