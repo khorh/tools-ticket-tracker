@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8e62a68-7c77-4baa-b84c-d252c3dfa357" name="Default Changelist" comment="" />
+    <list default="true" id="c8e62a68-7c77-4baa-b84c-d252c3dfa357" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/cname" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/gh-pages/git@github.com!khorh!tools-ticket-tracker.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/gh-pages/git@github.com!khorh!tools-ticket-tracker.git" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +54,7 @@
       <workItem from="1631712598860" duration="3092000" />
       <workItem from="1631723007938" duration="842000" />
       <workItem from="1631727932829" duration="426000" />
-      <workItem from="1632395321153" duration="1193000" />
+      <workItem from="1632395321153" duration="1984000" />
     </task>
     <servers />
   </component>
