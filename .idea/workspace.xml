@@ -3,10 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="c8e62a68-7c77-4baa-b84c-d252c3dfa357" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/cname" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.3b83a5c6.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.3b83a5c6.chunk.css.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/gh-pages/git@github.com!khorh!tools-ticket-tracker.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/gh-pages/git@github.com!khorh!tools-ticket-tracker.git" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +57,8 @@
       <workItem from="1631712598860" duration="3092000" />
       <workItem from="1631723007938" duration="842000" />
       <workItem from="1631727932829" duration="426000" />
-      <workItem from="1632395321153" duration="1984000" />
+      <workItem from="1632395321153" duration="2437000" />
+      <workItem from="1632490446792" duration="1363000" />
     </task>
     <servers />
   </component>
