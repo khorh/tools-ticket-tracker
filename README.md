@@ -29,6 +29,6 @@ The components are split into the header, ticket tracker container and ticket.
 
 #### 3.4 Javascript/React
 - Functionalities include:
-  - {useState} for the counter's increment and decrement, and
-  - array iterator map to output the tickets.
+  - _useState_ for the counter's increment and decrement, and
+  - _array map_ to output the tickets.
   
