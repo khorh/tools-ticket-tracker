@@ -6,7 +6,7 @@
 A ticket tracker to keep track of the number of tickets that different members of a tech squad has completed.
 
 ### 1. Project's objective
-To learn how to use create react app based on components.
+To learn how to use create react app.
 
 ### 2. Design and layout
 The components are split into the header, ticket tracker container and ticket.
@@ -17,6 +17,7 @@ The components are split into the header, ticket tracker container and ticket.
 - HTML/HTML5
 - CSS/SCSS
 - Javascript/React
+- NPM
 - IDE PHP Storm
 
 #### 3.2 HTML/HTML5
