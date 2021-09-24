@@ -1,6 +1,7 @@
 {
   "homepage": "https://www.helenkhor.com/tools-ticket-tracker",
   "name": "tools-ticket-tracker",
+  "description": "A ticket tracker to keep track of the number of tickets that different members of a tech squad has completed.",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
