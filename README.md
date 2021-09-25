@@ -3,7 +3,7 @@
 ![tools ticket tracker](./src/assets/images/tools-ticket-tracker.png)
 
 ### Overview
-A ticket tracker to keep track of the number of tickets that different members of a tech squad has completed.
+A React based ticket tracker to monitor the number of tickets that different members of a tech squad has completed.
 
 ### 1. Project's objective
 To learn how to use create react app.
